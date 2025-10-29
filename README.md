@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin Gilleron</h1>
-<h3 align="center">Je suis un Testeur logiciel Passionné, vennez voir mon travail !</h3>
+<h3 align="center">Je suis un Développeur web passionné, vennez voir mon travail !</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
